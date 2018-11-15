@@ -1,0 +1,65 @@
+.navbar-logo{
+	height: 100%;
+}
+
+#servicos{
+	padding-top: 76px;
+}
+
+#destaque{
+	width: 100%;
+	height: calc(100% - 64px);
+}
+
+#destaque figure{
+	width: 100%;
+	margin: 0px;
+}
+
+#destaque figure img{
+	width: 100%;
+}
+
+.servicos-link:hover{
+	color: #004d40;
+	cursor: pointer;
+	
+}
+
+.flow-text{
+	font-size: 16px;
+}
+
+.brand-logo{
+	height: 100%;
+}
+
+#produtos{
+	padding-top: 76px;
+}
+
+.card-title{
+	text-shadow: 0px 5px 5px rgba(0, 0, 0, 1);
+}
+
+#localizacao {
+	padding-top: 76px;
+}
+
+#localizacao{
+	height: 500px;
+	width: 100%;
+}
+
+#localizacao iframe{
+	height: 100%;
+	width: 100%;
+}
+
+#contatos {
+	padding-top: 152px;
+}
+
+
+
+
